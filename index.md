@@ -1,2 +1,5 @@
 ## Portfolio
-### Matthew Stapley
+### Matthew Stapley 
+### College Student
+### L3 Games Development & Programing
+
