@@ -5,6 +5,6 @@
 <br>
 [![image](https://lh3.googleusercontent.com/KhY28aTw30hEJXooMF-_rQqwMIIqofFvasbZJtEpvlgHQwLXKP3KW0OoCTtoYpDNn_U=w128)](https://www.youtube.com/)
 <br>
-[![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Ftwitter-241&psig=AOvVaw1zbYwIlkYUe5XAGQG0c-uT&ust=1609858411415000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC1gp7Egu4CFQAAAAAdAAAAABAD)](https://twitter.com/stapley_matt)
+[![image](https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg?quality=75&auto=webp&disable=upscale)](https://twitter.com/stapley_matt)
  
  
