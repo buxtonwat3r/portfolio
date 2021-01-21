@@ -1,5 +1,5 @@
 
-
+<body>
 # My Gallery
 
 ### Screen Shots of games I have created
@@ -9,6 +9,7 @@
 <br>
 <br>
 <h3> 2D Platformer </h3>
+</body>
 
 
 
