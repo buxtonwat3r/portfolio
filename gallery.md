@@ -1,8 +1,8 @@
 
 <body>
-# My Gallery
+ <h3> My Gallery</h3>
 
-### Screen Shots of games I have created
+<p>Screen Shots of games I have created</p>
 <h3>2D Platformer</h3>
 <br>
 <br>
